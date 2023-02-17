@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-14T13:36:40.209445Z</date>
+  <millis>1676381800209</millis>
+  <nanos>445000</nanos>
+  <sequence>0</sequence>
+  <logger>Task2.Task2</logger>
+  <level>INFO</level>
+  <class>Task2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[8, 30, 25, 72, 31, 74, 78]</message>
+</record>
+<record>
+  <date>2023-02-14T13:36:40.255725Z</date>
+  <millis>1676381800255</millis>
+  <nanos>725000</nanos>
+  <sequence>1</sequence>
+  <logger>Task2.Task2</logger>
+  <level>INFO</level>
+  <class>Task2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[8, 25, 30, 31, 72, 74, 78]</message>
+</record>
+<record>
+  <date>2023-02-14T13:36:40.257701600Z</date>
+  <millis>1676381800257</millis>
+  <nanos>701600</nanos>
+  <sequence>2</sequence>
+  <logger>Task2.Task2</logger>
+  <level>INFO</level>
+  <class>Task2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[8, 25, 30, 31, 72, 74, 78]</message>
+</record>
+<record>
+  <date>2023-02-14T13:36:40.264216200Z</date>
+  <millis>1676381800264</millis>
+  <nanos>216200</nanos>
+  <sequence>3</sequence>
+  <logger>Task2.Task2</logger>
+  <level>INFO</level>
+  <class>Task2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[8, 25, 30, 31, 72, 74, 78]</message>
+</record>
+<record>
+  <date>2023-02-14T13:36:40.267216400Z</date>
+  <millis>1676381800267</millis>
+  <nanos>216400</nanos>
+  <sequence>4</sequence>
+  <logger>Task2.Task2</logger>
+  <level>INFO</level>
+  <class>Task2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[8, 25, 30, 31, 72, 74, 78]</message>
+</record>
+<record>
+  <date>2023-02-14T13:36:40.269222300Z</date>
+  <millis>1676381800269</millis>
+  <nanos>222300</nanos>
+  <sequence>5</sequence>
+  <logger>Task2.Task2</logger>
+  <level>INFO</level>
+  <class>Task2.Task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>[8, 25, 30, 31, 72, 74, 78]</message>
+</record>
+</log>

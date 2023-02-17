@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-14T16:15:57.648058400Z</date>
+  <millis>1676391357648</millis>
+  <nanos>58400</nanos>
+  <sequence>0</sequence>
+  <logger>Task4.Task4</logger>
+  <level>INFO</level>
+  <class>Task4.Task4</class>
+  <method>calc</method>
+  <thread>1</thread>
+  <message>Умножение; Результат: 8</message>
+</record>
+</log>
